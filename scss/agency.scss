@@ -515,7 +515,7 @@ section {
 .team-member {
     text-align: center;
     margin-bottom: 50px;
-    img {
+    .jerry {
       max-height: 300px;
         margin: 0 auto;
         border: 7px solid white;
@@ -528,6 +528,10 @@ section {
     p {
         margin-top: 0;
     }
+}
+
+.rc-1-logo {
+  max-height: 100px;
 }
 
 // Clients Aside

@@ -1,6 +1,6 @@
 /*!
  * Start Bootstrap - Agency v3.3.7+1 (http://startbootstrap.com/template-overviews/agency)
- * Copyright 2013-2016 Start Bootstrap
+ * Copyright 2013-2017 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 body {
@@ -456,7 +456,7 @@ section {
 .team-member {
   text-align: center;
   margin-bottom: 50px; }
-  .team-member img {
+  .team-member .jerry {
     max-height: 300px;
     margin: 0 auto;
     border: 7px solid white; }
@@ -466,6 +466,9 @@ section {
     text-transform: none; }
   .team-member p {
     margin-top: 0; }
+
+.rc-1-logo {
+  max-height: 100px; }
 
 aside.clients img {
   margin: 50px auto; }
